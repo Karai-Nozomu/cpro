@@ -1,0 +1,3 @@
+gcc -g -Wall -O2 -o learn6layer learn6layer.c nn_module.c -lm
+
+gcc -g -Wall -O2 -o inference_from_image inference_from_image.c nn_module.c -lm

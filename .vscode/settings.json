@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\MinGW\\bin;${env:PATH}"
+    },
+    "editor.formatOnType": true,
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "boundary",
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
